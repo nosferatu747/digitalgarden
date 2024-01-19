@@ -4,7 +4,7 @@
 
 | 名称              | 网址                                                      | 类型          | 图标                        |
 | ----------------- | --------------------------------------------------------- | ------------- | --------------------------- |
-| Awoqu             | https://awoqu.com/                                        | [Flare 应用]  | bookmarkBoxMultipleOutline  |
+| [Awoqu](https://awoqu.com/)             | https://awoqu.com/                                        | [Flare 应用]  | bookmarkBoxMultipleOutline  |
 | ChatGPT           | https://chat.openai.com/                                  | [Flare 应用]  | chat                        |
 | Huggingface       | https://huggingface.co/                                   | [Flare 应用]  | babyFaceOutline             |
 | Discord           | https://discord.com/                                      | [Flare 应用]  | discord                     |
